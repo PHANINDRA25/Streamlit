@@ -34,8 +34,8 @@ def duration_data(df, start_date, end_date, time_frame, y, color,chart_selection
         delta = current_value - previous_value
         delta_percent = (delta / previous_value) * 100 if previous_value != 0 else 0
         delta_str = f"{delta:+,.0f} ({delta_percent:+.2f}%)"
-        a=df[value[i]].sum()
-        value1=f"{a:,.0f}"
+        value1=df[(df['DATE']>=pd.to_datetime(start_date)) & (df['DATE']<=pd.to_datetime(end_date))][value[i]].sum()
+        value1=f"{value1:,.0f}"
         st.metric(heading[i],value=value1,delta=delta_str,delta_color="normal")
 
         chart_selection=chart_selection.lower()
