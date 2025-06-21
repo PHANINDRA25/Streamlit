@@ -65,7 +65,7 @@ with st.sidebar:
 
     start_date=st.date_input('Start date',value=default_start_date,max_value=max_date,min_value=df['DATE'].min().date())
     end_date=st.date_input('End date',value=default_end_date,max_value=max_date,min_value=df['DATE'].min().date())
-    time_frame=st.selectbox('Select time frame',["Daily", "Weekly", "Monthly", "Quarterly"])
+    time_frame=st.selectbox('Select time frame',["Daily", "Weekly", "Monthly"])
     chart_selection = st.selectbox("Select a chart type", ("Bar", "Area"))
 
 st.subheader('All-Time Statistics')
