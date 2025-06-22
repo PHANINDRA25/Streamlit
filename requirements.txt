@@ -4,5 +4,4 @@ streamlit
 scikit-learn
 datetime
 requests
-pickle
-io
+joblib
