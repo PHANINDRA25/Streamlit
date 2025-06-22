@@ -1,0 +1,101 @@
+ID,Issue,Status,Priority,Date Submitted
+TICKET-1099,Data backup failure,Open,High,07-10-2024
+TICKET-1098,File server running out of storage space,Open,Medium,10-01-2024
+TICKET-1097,Network connectivity issues in the office,Open,Medium,06-16-2024
+TICKET-1092,Website performance degradation,Open,Medium,11-01-2024
+TICKET-1090,Website performance degradation,Open,Low,10-04-2024
+TICKET-1089,Employee unable to access shared files,Open,High,12-02-2024
+TICKET-1088,Data backup failure,Open,High,08-01-2024
+TICKET-1087,Network connectivity issues in the office,Open,Low,06-23-2024
+TICKET-1081,Database connection failure,Open,High,07-04-2024
+TICKET-1079,Mobile application not syncing data,Open,Low,08-22-2024
+TICKET-1078,Network connectivity issues in the office,Open,Medium,10-21-2024
+TICKET-1072,Hardware malfunction in the server room,Open,High,11-10-2024
+TICKET-1071,VoIP phone system issues,Open,Low,10-26-2024
+TICKET-1069,Inventory management system errors,Open,Medium,10-09-2024
+TICKET-1064,Security vulnerability identified,Open,Low,08-10-2024
+TICKET-1063,System updates causing compatibility issues,Open,High,08-11-2024
+TICKET-1062,File server running out of storage space,Open,Medium,08-16-2024
+TICKET-1059,Employee unable to access shared files,Open,Low,10-27-2024
+TICKET-1058,Software application crashing on startup,Open,High,10-19-2024
+TICKET-1057,Mobile application not syncing data,Open,High,07-03-2024
+TICKET-1054,Employee unable to access shared files,Open,High,08-27-2024
+TICKET-1047,Intrusion detection system alerts,Open,Medium,10-14-2024
+TICKET-1046,VPN connection problems for remote employees,Open,Low,10-11-2024
+TICKET-1044,System updates causing compatibility issues,Open,Medium,09-21-2024
+TICKET-1037,Hardware malfunction in the server room,Open,Low,08-12-2024
+TICKET-1036,Inventory management system errors,Open,High,12-16-2024
+TICKET-1033,Inventory management system errors,Open,High,10-07-2024
+TICKET-1030,Website performance degradation,Open,Low,09-26-2024
+TICKET-1028,Data backup failure,Open,Low,06-11-2024
+TICKET-1027,Printer not responding to print commands,Open,Medium,07-15-2024
+TICKET-1023,System updates causing compatibility issues,Open,High,11-13-2024
+TICKET-1018,Mobile application not syncing data,Open,Low,11-04-2024
+TICKET-1011,Printer not responding to print commands,Open,Low,10-30-2024
+TICKET-1010,Security vulnerability identified,Open,High,06-07-2024
+TICKET-1006,Customer data not loading in CRM,Open,Low,09-28-2024
+TICKET-1004,Security vulnerability identified,Open,Medium,09-14-2024
+TICKET-1095,Mobile application not syncing data,In Progress,Medium,12-14-2024
+TICKET-1094,Security vulnerability identified,In Progress,Medium,06-19-2024
+TICKET-1093,Hardware malfunction in the server room,In Progress,Low,10-31-2024
+TICKET-1085,Printer not responding to print commands,In Progress,High,06-12-2024
+TICKET-1083,Intrusion detection system alerts,In Progress,High,08-30-2024
+TICKET-1082,Customer data not loading in CRM,In Progress,High,08-24-2024
+TICKET-1080,Security vulnerability identified,In Progress,High,12-08-2024
+TICKET-1077,Hardware malfunction in the server room,In Progress,Medium,12-10-2024
+TICKET-1074,VoIP phone system issues,In Progress,Medium,08-08-2024
+TICKET-1070,System updates causing compatibility issues,In Progress,High,08-18-2024
+TICKET-1067,File server running out of storage space,In Progress,Medium,06-29-2024
+TICKET-1061,VPN connection problems for remote employees,In Progress,Low,08-20-2024
+TICKET-1056,Inventory management system errors,In Progress,Low,09-13-2024
+TICKET-1052,Software application crashing on startup,In Progress,Medium,09-17-2024
+TICKET-1050,Security vulnerability identified,In Progress,Medium,08-21-2024
+TICKET-1049,Inventory management system errors,In Progress,High,07-01-2024
+TICKET-1048,Email server downtime,In Progress,High,09-27-2024
+TICKET-1045,Printer not responding to print commands,In Progress,Low,08-19-2024
+TICKET-1043,Security vulnerability identified,In Progress,Medium,12-06-2024
+TICKET-1042,Mobile application not syncing data,In Progress,Low,10-17-2024
+TICKET-1041,Website performance degradation,In Progress,Low,11-17-2024
+TICKET-1029,Customer data not loading in CRM,In Progress,Low,10-12-2024
+TICKET-1022,System updates causing compatibility issues,In Progress,Medium,11-18-2024
+TICKET-1021,File server running out of storage space,In Progress,Low,11-26-2024
+TICKET-1015,Software application crashing on startup,In Progress,Medium,09-08-2024
+TICKET-1012,Software application crashing on startup,In Progress,Medium,07-11-2024
+TICKET-1008,Database connection failure,In Progress,Low,08-29-2024
+TICKET-1001,Collaboration tool not sending notifications,In Progress,Medium,08-13-2024
+TICKET-1096,Software application crashing on startup,Closed,Medium,10-23-2024
+TICKET-1091,Hardware malfunction in the server room,Closed,Low,11-21-2024
+TICKET-1086,Printer not responding to print commands,Closed,Low,06-09-2024
+TICKET-1084,Security vulnerability identified,Closed,Medium,06-01-2024
+TICKET-1076,Website performance degradation,Closed,Medium,08-03-2024
+TICKET-1075,Network connectivity issues in the office,Closed,Medium,11-23-2024
+TICKET-1073,System updates causing compatibility issues,Closed,High,11-15-2024
+TICKET-1068,VoIP phone system issues,Closed,Low,10-20-2024
+TICKET-1066,Security vulnerability identified,Closed,Medium,09-18-2024
+TICKET-1065,VPN connection problems for remote employees,Closed,High,08-28-2024
+TICKET-1060,Email server downtime,Closed,Low,12-15-2024
+TICKET-1055,Email server downtime,Closed,Low,11-25-2024
+TICKET-1053,Login authentication problems,Closed,High,06-10-2024
+TICKET-1051,Email server downtime,Closed,High,07-29-2024
+TICKET-1040,System updates causing compatibility issues,Closed,Medium,10-28-2024
+TICKET-1039,Collaboration tool not sending notifications,Closed,High,06-02-2024
+TICKET-1038,Software application crashing on startup,Closed,High,12-12-2024
+TICKET-1035,VPN connection problems for remote employees,Closed,Medium,10-18-2024
+TICKET-1034,Email server downtime,Closed,Low,09-30-2024
+TICKET-1032,Website performance degradation,Closed,High,08-23-2024
+TICKET-1031,Hardware malfunction in the server room,Closed,Low,11-22-2024
+TICKET-1026,Collaboration tool not sending notifications,Closed,Low,09-29-2024
+TICKET-1025,Mobile application not syncing data,Closed,Low,06-03-2024
+TICKET-1024,Customer data not loading in CRM,Closed,Low,07-08-2024
+TICKET-1020,Employee unable to access shared files,Closed,High,10-24-2024
+TICKET-1019,Intrusion detection system alerts,Closed,High,07-26-2024
+TICKET-1017,Mobile application not syncing data,Closed,Low,09-10-2024
+TICKET-1016,Network connectivity issues in the office,Closed,Medium,06-14-2024
+TICKET-1014,Login authentication problems,Closed,Medium,08-14-2024
+TICKET-1013,Mobile application not syncing data,Closed,High,08-15-2024
+TICKET-1009,Email server downtime,Closed,Low,12-05-2024
+TICKET-1007,Database connection failure,Closed,Low,09-20-2024
+TICKET-1005,Website performance degradation,Closed,Medium,08-17-2024
+TICKET-1003,Database connection failure,Closed,High,08-26-2024
+TICKET-1002,System updates causing compatibility issues,Closed,Medium,07-14-2024
+TICKET-1000,Website performance degradation,Closed,Low,11-14-2024
