@@ -27,7 +27,7 @@ def display_message():
 
 @st.cache_data
 def load_data():
-    df=pd.read_csv(r'X:\Streamlit\support ticket\support.csv')
+    df=pd.read_csv(r'support.csv')
     df['Date Submitted'] = pd.to_datetime(df['Date Submitted'])
     df['Date Submitted']=df['Date Submitted'].dt.date
     return df
