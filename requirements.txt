@@ -3,7 +3,6 @@ numpy
 streamlit
 scikit-learn
 datetime
-dateutil
 requests
 pickle
 io
