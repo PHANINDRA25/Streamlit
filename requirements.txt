@@ -5,3 +5,4 @@ scikit-learn
 datetime
 requests
 joblib
+statsmodels
