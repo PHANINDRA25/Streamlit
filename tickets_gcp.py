@@ -8,7 +8,7 @@ import pandas as pd
 def authenticate_and_load_data():
 
     # === CONFIGURATION ===
-    key_path = r"C:\Users\phani\Downloads\symbolic-path-409308-9442c9b54782.json"  # Replace with your local path
+    key_path = "symbolic-path-409308-9442c9b54782.json"  # Replace with your local path
     project_id = "symbolic-path-409308"
     dataset_id = "discovery"
     table_id = "tickets"
