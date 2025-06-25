@@ -6,3 +6,5 @@ datetime
 requests
 joblib
 statsmodels
+google-cloud-bigquery
+google-auth
